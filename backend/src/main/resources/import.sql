@@ -1,7 +1,7 @@
-INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Barry Allen',121,67,18196.0,'2022-06-16');
-INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Logan',26,14,4255.0,'2022-06-14');
-INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Padme',55,42,13249.0,'2022-06-14');
-INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Padme',73,65,20751.0,'2022-06-10');
+INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Renan',121,67,18196.0,'2022-06-16');
+INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Isabella',26,14,4255.0,'2022-06-14');
+INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Ivany',55,42,13249.0,'2022-06-14');
+INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Celio',73,65,20751.0,'2022-06-10');
 INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Logan',47,25,7318.0,'2022-06-04');
 INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Kal-El',72,60,15608.0,'2022-06-03');
 INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Kal-El',97,68,8901.0,'2022-06-03');
@@ -9,7 +9,7 @@ INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Anakin',68,
 INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Barry Allen',73,53,19476.0,'2022-05-22');
 INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Kal-El',28,23,20530.0,'2022-05-18');
 INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Logan',83,44,4864.0,'2022-05-13');
-INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Barry Allen',82,43,21753.0,'2022-05-06');
+INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Renan',82,43,21753.0,'2022-05-06');
 INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Logan',43,26,7362.0,'2022-05-03');
 INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Anakin',54,23,10549.0,'2022-04-28');
 INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Padme',125,84,13333.0,'2022-04-25');
@@ -20,7 +20,7 @@ INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Anakin',52,
 INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Padme',121,90,18174.0,'2022-04-17');
 INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Logan',65,14,8095.0,'2022-04-12');
 INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Padme',107,74,11507.0,'2022-04-12');
-INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Barry Allen',140,74,11709.0,'2022-04-09');
+INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Renan',140,74,11709.0,'2022-04-09');
 INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Kal-El',95,91,8288.0,'2022-04-08');
 INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Anakin',68,43,17016.0,'2022-04-07');
 INSERT INTO tb_sales(seller_name,visited,deals,amount,date) VALUES ('Kal-El',21,20,17126.0,'2022-04-03');
